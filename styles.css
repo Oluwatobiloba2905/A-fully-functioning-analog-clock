@@ -109,5 +109,10 @@ Now you can add the clock.png image. */
 
 .copy {
     color: white;
-
 }
+
+.header{
+    color: white;
+    background-color: black;
+}
+
